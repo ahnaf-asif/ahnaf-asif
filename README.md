@@ -23,10 +23,10 @@
 
 <div style="display: flex;justify-content: center; align-items: center; gap: 20px;" >
   <a href="https://github.com/ahnaf-asif">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ahnaf-asif&show_icons=true&theme=radical"/>
+    <img height="180px" src="https://github-readme-stats-pi-opal-62.vercel.app/api?username=ahnaf-asif&show_icons=true&theme=radical"/>
   </a>
   <a href="https://github.com/ahnaf-asif">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-asif&layout=compact&theme=radical"/>
+    <img height="180px" src="https://github-readme-stats-pi-opal-62.vercel.app/api/top-langs/?username=ahnaf-asif&layout=compact&theme=radical"/>
   </a>
 </div>
 
