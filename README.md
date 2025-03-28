@@ -3,6 +3,7 @@
 💻 Full-Stack Software Engineer | CS & Math Student | Competitive Programmer  
 🚀 Working on a **Project Management Tool (like Jira) with Go & HTMX**  
 🧑‍🏫 Teaching CP & Math
+
 🎸 Loves anime & plays guitar sometimes 🎶  
 
 ---
@@ -19,9 +20,15 @@
 ---
 
 ### 📊 GitHub Stats  
-![Ahnaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahnaf-asif&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-asif&layout=compact&theme=radical)
 
+<div style="display: flex;justify-content: center; align-items: center; gap: 20px;" >
+  <a href="https://github.com/ahnaf-asif">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ahnaf-asif&show_icons=true&theme=radical"/>
+  </a>
+  <a href="https://github.com/ahnaf-asif">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-asif&layout=compact&theme=radical"/>
+  </a>
+</div>
 
 📫 **Reach me:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahnafasif)  
