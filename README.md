@@ -1,10 +1,9 @@
 ## Hi there 👋  
 
 💻 Full-Stack Software Engineer | CS & Math Student | Competitive Programmer  
-🚀 Working on a **Project Management Tool (like Jira) with Go & HTMX**  
-🧑‍🏫 Teaching CP & Math
+🧑‍🏫 Studying and Teaching Competitive Programming & Math
 
-🎸 Loves anime & plays guitar sometimes 🎶  
+🎸 Love anime & play guitar sometimes 🎶  
 
 ---
 
