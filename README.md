@@ -1,4 +1,5 @@
 ## Hi there 👋  
+![](https://komarev.com/ghpvc/?username=ahnaf-asif)
 
 💻 Full-Stack Software Engineer | CS & Math Student | Competitive Programmer  
 🧑‍🏫 Studying and Teaching Competitive Programming & Math
